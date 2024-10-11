@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm a cybersecurity student at BeCode.
-I am always very enthusiastic to learn about new technologies/tools in all fields to improve our daily lives, productivity (Obsidian apprentice, using Syncthing here!), security, etc.
+I am always very enthusiastic to learn about new technologies/tools in all fields to improve our daily lives, productivity ([Obsidian](https://obsidian.md/) apprentice, using [Syncthing](https://syncthing.net/) here!), security, etc.
 
 Currently learning about networking and taking the [Intro to Github](https://github.com/github-education-experiences/introduction-to-github) course.
 
