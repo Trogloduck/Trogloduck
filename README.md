@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm a cybersecurity student at BeCode.
+I am alwyas very enthusiastic to learn about new technologies/tools in all fields to improve our daily lives, productivity (Obsidian apprentice, using Syncthing here!), security, etc.
+Currently learning about networking and taking the Intro to Github course.
 
 <!--
 **Trogloduck/Trogloduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
