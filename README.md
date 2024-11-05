@@ -1,6 +1,6 @@
 ## Hi there 👋
-I'm a **cybersecurity student** at **BeCode**.
-I am always very enthusiastic to learn about new technologies/tools in all fields to improve our daily lives, **productivity** ([**Obsidian**](https://obsidian.md/) apprentice, using [**Syncthing**](https://syncthing.net/) here!), **security**, etc.
+
+I'm a **cybersecurity student** at **BeCode**, passionate about exploring new technologies and tools to enhance daily life, boost **_productivity_**, and strengthen **_security_**. I'm constantly **_learning_** and **_experimenting_** with innovative solutions like Obsidian and Syncthing to stay ahead in the **_tech_** world.
 
 <!--
 **Trogloduck/Trogloduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
