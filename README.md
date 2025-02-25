@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **cybersecurity student** at **BeCode**, passionate about exploring new **_technologies_** and tools to enhance daily life, boost **_productivity_**, and strengthen **_security_**. I am constantly **_learning_** and **_experimenting_**. 
+I'm a **cybersecurity student** at **BeCode**, passionate about exploring new **_technologies_** and tools to enhance daily life, boost **_productivity_**, and strengthen **_security_**. I love **_learning_** and **_experimenting_**. 
 
 With a background in **psychology** and a strong interest in **coding** and **cryptography**, I offer a unique perspective to cybersecurity, particularly in understanding human behavior and social engineering threats. 
 
