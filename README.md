@@ -6,9 +6,8 @@ With a background in **psychology** and a strong interest in **coding** and **cr
 
 Currently, I am also undertaking an online [Stanford University **cryptography** class](https://www.coursera.org/learn/crypto/home), cultivating my interest in mathematics and algorithms. 
 
-View my online resume [here](https://trogloduck.github.io/tom-macdonald/)
+View my **online resume** [here](https://trogloduck.github.io/tom-macdonald/)
 
-<!--
-**Trogloduck/Trogloduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
--->
+
+<!--**Trogloduck/Trogloduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
