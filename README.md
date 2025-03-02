@@ -1,4 +1,4 @@
-## Hi there 👋
+## Salutation! 🖖
 
 I'm a **cybersecurity student** at **BeCode**, passionate about exploring new **_technologies_** and tools to enhance daily life, boost **_productivity_**, and strengthen **_security_**. I love **_learning_** and **_experimenting_**. 
 
