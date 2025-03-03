@@ -8,7 +8,7 @@ Currently, I am also undertaking an online [Stanford University **cryptography**
 
 View my **online resume** [here](https://trogloduck.github.io/tom-macdonald/)
 
-Connect with me [here]([url](https://www.linkedin.com/in/tom-macdonald-26258592/))
+Connect with me [here](https://www.linkedin.com/in/tom-macdonald-26258592/)
 
 
 
